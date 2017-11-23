@@ -1,0 +1,29 @@
+<CSPIF VERSION="0.01">
+    <CSP>
+        <NAME>Untitled</NAME>
+        <DESCRIPTION>
+            <SHORT/>
+            <DETAILED/>
+        </DESCRIPTION>
+        <VARIABLE TYPE="Integer">
+            <NAME>X</NAME>
+            <VALUE>2</VALUE>
+            <VALUE>3</VALUE>
+            <VALUE>4</VALUE>
+            <PROPERTY>position = (7059.488, 5150.312)</PROPERTY>
+        </VARIABLE>
+        <VARIABLE TYPE="Integer">
+            <NAME>Y</NAME>
+            <VALUE>1</VALUE>
+            <VALUE>2</VALUE>
+            <VALUE>3</VALUE>
+            <PROPERTY>position = (7624.5117, 5339.688)</PROPERTY>
+        </VARIABLE>
+        <CONSTRAINT TYPE="LessThan">
+            <GIVEN>X</GIVEN>
+            <GIVEN>Y</GIVEN>
+            <ARGS/>
+            <PROPERTY>position = (7284.566, 5187.5654)</PROPERTY>
+        </CONSTRAINT>
+    </CSP>
+</CSPIF>
